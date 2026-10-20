@@ -1,0 +1,16 @@
+apk/
+__pycache__/
+*.db
+*.db-shm
+*.db-wal
+capture.jsonl
+decrypted*.jsonl
+bodies.log
+devices_summary.json
+decrypted_req/
+last_batch_outer.json
+batch_invoke_sample.json
+login_*.json
+mqtt_listen.log
+credentials.local.md
+capture_new.jsonl
